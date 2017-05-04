@@ -8,3 +8,6 @@ C:\Users\GISELLE\Documents\Visual Studio 2017\Projects\Auditoria\Auditoria\obj\D
 C:\Users\GISELLE\Documents\Visual Studio 2017\Projects\Auditoria\Auditoria\obj\Debug\Auditoria.exe
 C:\Users\GISELLE\Documents\Visual Studio 2017\Projects\Auditoria\Auditoria\obj\Debug\Auditoria.pdb
 C:\Users\GISELLE\Documents\Visual Studio 2017\Projects\Auditoria\Auditoria\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Emmanuel Vazquez\Source\Repos\proyecto-\Auditoria\Auditoria\bin\Debug\Auditoria.exe.config
+C:\Users\Emmanuel Vazquez\Source\Repos\proyecto-\Auditoria\Auditoria\obj\Debug\Auditoria.exe
+C:\Users\Emmanuel Vazquez\Source\Repos\proyecto-\Auditoria\Auditoria\obj\Debug\Auditoria.pdb
